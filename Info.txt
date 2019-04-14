@@ -1,0 +1,20 @@
+0  459 264  The Bay Tree Bookstore
+1  369 350  McHenry Libaray
+2  299 369  Theater Arts M Media Theater
+3  312 225  Science & Engineering Library
+4  284 210  Physical Sciences Building
+5  247 157  Engineering Building 2
+6  244 171  Jack Baskin Engineering Building
+7  268 261  Thimann Labs
+8  400 160  Colleges Nine and Ten Dining Hall
+9  497 257  Humanities Lecture Hall
+10  540 312  Cowell/Stevenson Dining Hall
+11  506 379  OPERS
+12  412 339  Hahn Student Services
+13  180 490  Rachel Carson/Oakes Dining Hall
+14  394 113  Social Science 1
+15  372 137  Social Sciences 2
+16  524 197  Banna Joes
+17  153 400  Porter Dining hall
+18  417 212  Cowell Health Center
+19  439 235  Upper Quarry
